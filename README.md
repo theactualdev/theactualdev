@@ -20,7 +20,7 @@
   <h2>Skills</h2>
 
   <a href="https://github.com/theactualdev">
-    <img src="https://skillicons.dev/icons?i=html,js,ts,ts,css,bootstrap,cs,firebase,git,github,npm,p5js,postman,vite,unity,bash,next,tailwind,react,nodejs,java,python,figma&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,js,ts,css,bootstrap,cs,firebase,git,github,npm,p5js,postman,vite,unity,bash,next,tailwind,react,nodejs,java,python,figma&perline=12" />
   </a>
 </section>
 
